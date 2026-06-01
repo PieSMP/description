@@ -1,1 +1,1 @@
-
+Pie SMP is a competitive semi-vanilla SMP that has many plugins to make the server better. 
